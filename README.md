@@ -8,7 +8,7 @@ Maintained by:
 Please follow this format for contributions:
 ```
 - [Paper Title](paper link) [Additional Links]
-  - Author1, Author2, and Author3. Published in arXiv/Conference/Journal, Year.
+  - Author1, Author2, and Author3. arXiv/Conference/Journal, Year.
 ```
 
 For any inquiries, don't hesitate to contact: li.jiang3@mail.mcgill.ca
