@@ -19,19 +19,16 @@ Some notes:
 - Most of the paper collections is credited to [RLHF paper](https://www.craft.me/s/NHvR6dsCVNNW8L).
 
 ## Table of Contents
-
-- [awesome-offline-rl](#awesome-offline-rl)
-  - [Table of Contents](#table-of-contents)
-  - [Papers](#papers)
-    - [Review/Survey/Position Papers](#reviewsurveyposition-papers)
-    - [RLHF for LLMs: Theory / Methods](#rlhf-for-llms-theory--methods)
-    - [RLHF for Other Domains](#rlhf-for-other-domains)
-    - [Datasets](#datasets)
-  - [Blogs/Talks/Reports](#blogstalksreports)
-    - [Blogs](#blogs)
-    - [Talks](#talks)
-    - [Reports](#reports)
-  - [Open Source Software/Implementations](#open-source-softwareimplementations)
+- [Papers](https://github.com/louieworth/awesome-rlhf#papers)
+  - [Review/Survey/Position Papers](https://github.com/louieworth/awesome-rlhf#reviewsurveyposition-papers)
+  - [RLHF for LLMs: Theory / Methods](https://github.com/louieworth/awesome-rlhf#rlhf-for-llms-theory--methods)
+  - [RLHF for Other Domains](https://github.com/louieworth/awesome-rlhf#rlhf-for-other-domains)
+  - [Datasets](https://github.com/louieworth/awesome-rlhf#datasets)
+- [Blogs/Talks/Reports](https://github.com/louieworth/awesome-rlhf#blogstalksreports)
+  - [Blogs](https://github.com/louieworth/awesome-rlhf#blogs)
+  - [Talks](https://github.com/louieworth/awesome-rlhf#talks)
+  - [Reports](https://github.com/louieworth/awesome-rlhf#reports)
+- [Open Source Software/Implementations](https://github.com/louieworth/awesome-rlhf#open-source-softwareimplementations)
 
 
 ## Papers
