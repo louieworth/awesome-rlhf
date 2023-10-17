@@ -1,4 +1,4 @@
-# awesome-offline-rl
+# awesome-rlhf
 Welcome to our curated collection of research and review papers focused on Reinforcement Learning from Human Feedback (RLHF). We encourage you to star, fork, and contribute to this repository. We're actively seeking additional contributors and maintainers! 
 
 Maintained by:
