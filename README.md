@@ -3,7 +3,7 @@ Welcome to our curated collection of research and review papers focused on Reinf
 
 Maintained by:
 
-- [Li Jiang](https://louieworth.github.io/), Cornell University
+- [Li Jiang](https://louieworth.github.io/), McGill University
 
 Please follow this format for contributions:
 ```
@@ -16,11 +16,23 @@ For any inquiries, don't hesitate to contact: li.jiang3@mail.mcgill.ca
 Some notes:
 
 - This resource is dedicated to the latest papers and does not include past academic works, even those published earlier in 2023. For a review of prominent historical papers, please refer to [this link](https://huggingface.co/blog/rlhf#further-reading).
-- Most of the paper organization is credited to [RLHF paper](https://www.craft.me/s/NHvR6dsCVNNW8L).
+- Most of the paper collections is credited to [RLHF paper](https://www.craft.me/s/NHvR6dsCVNNW8L).
 
 ## Table of Contents
 
-[TOC]
+- [awesome-offline-rl](#awesome-offline-rl)
+  - [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+    - [Review/Survey/Position Papers](#reviewsurveyposition-papers)
+    - [RLHF for LLMs: Theory / Methods](#rlhf-for-llms-theory--methods)
+    - [RLHF for Other Domains](#rlhf-for-other-domains)
+    - [Datasets](#datasets)
+  - [Blogs/Talks/Reports](#blogstalksreports)
+    - [Blogs](#blogs)
+    - [Talks](#talks)
+    - [Reports](#reports)
+  - [Open Source Software/Implementations](#open-source-softwareimplementations)
+
 
 ## Papers
 
