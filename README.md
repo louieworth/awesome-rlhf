@@ -59,8 +59,14 @@ Some notes:
   - Ziqi Wang, Le Hou, Tianjian Lu, Yuexin Wu, Yunxuan Li, Hongkun Yu, Heng Ji. arXiv, 2023.
 - [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/abs/2309.16155v1)
   - Lingfeng Shen, Sihao Chen, Linfeng Song, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. arXiv, 2023.
+- [Aligning Language Models with Offline Reinforcement Learning from Human Feedback](http://arxiv.org/abs/2308.12050)
+  - Jian Hu, Li Tao, June Yang, Chandler Zhou. arXiv, 2023.
 - [Human Feedback is not Gold Standard](https://arxiv.org/abs/2309.16349)
   - Tom Hosking, Phil Blunsom, Max Bartolo. arXiv, 2023.
+- [Fine-Tuning Language Models with Advantage-Induced Policy Alignment](http://arxiv.org/abs/2306.02231)
+  - Banghua Zhu, Hiteshi Sharma, Felipe Vieira Frujeri, Shi Dong, Chenguang Zhu, Michael I. Jordan, Jiantao Jiao. arXiv, 2023. 
+- [Principled Reinforcement Learning with Human Feedback from Pairwise or $K$-wise Comparisons](http://arxiv.org/abs/2301.11270).
+  - Banghua Zhu, Jiantao Jiao, Michael I. Jordan. arXiv, 2023.
 - [Making PPO even better: Value-Guided Monte-Carlo Tree Search decoding](https://arxiv.org/abs/2309.15028)
   - Jiacheng Liu, Andrew Cohen, Ramakanth Pasunuru, Yejin Choi, Hannaneh Hajishirzi, Asli Celikyilmaz. arXiv, 2023.
 - [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://arxiv.org/abs/2309.10202)
