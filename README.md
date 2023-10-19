@@ -16,7 +16,7 @@ For any inquiries, don't hesitate to contact: li.jiang3@mail.mcgill.ca
 Some notes:
 
 - This resource is dedicated to the latest papers and does not include past academic works, even those published earlier in 2023. For a review of prominent historical papers, please refer to [hugging face blog](https://huggingface.co/blog/rlhf#further-reading) and [this link](https://github.com/opendilab/awesome-RLHF).
-- Most of the paper collections is credited to [RLHF paper](https://www.craft.me/s/NHvR6dsCVNNW8L).
+<!-- - Most of the paper collections is credited to [RLHF papers](https://www.craft.me/s/NHvR6dsCVNNW8L). -->
 
 ## Table of Contents
 - [Papers](https://github.com/louieworth/awesome-rlhf#papers)
@@ -39,6 +39,8 @@ Some notes:
   - Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David Lindner, Pedro Freire, Tony Wang, Samuel Marks, Charbel-Raphaël Segerie, Micah Carroll, Andi Peng, Phillip Christoffersen, Mehul Damani, Stewart Slocum, Usman Anwar, Anand Siththaranjan, Max Nadeau, Eric J. Michaud, Jacob Pfau, Dmitrii Krasheninnikov, Xin Chen, Lauro Langosco, Peter Hase, Erdem Bıyık, Anca Dragan, David Krueger, Dorsa Sadigh, and Dylan Hadfield-Menell. arXiv, 2023.
 
 ### RLHF for LLMs: Theory / Methods
+- [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036).
+  -  Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, Rémi Munos. arXiv, 2023.
 - [Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment](https://arxiv.org/abs/2310.00212)
   - Tianhao Wu, Banghua Zhu, Ruoyu Zhang, Zhaojin Wen, Kannan Ramchandran, Jiantao Jiao. arXiv, 2023.
 - [Understanding the Effects of RLHF on LLM Generalisation and Diversity](https://arxiv.org/abs/2310.06452)
@@ -49,6 +51,10 @@ Some notes:
   - Zhiqing Sun, Yikang Shen, Hongxin Zhang, Qinhong Zhou, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan. arXiv, 2023.
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](http://arxiv.org/abs/2305.18290)
   - Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn. NeurIPS, 2023.
+- [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767).
+  - Hanze Dong, Wei Xiong, Deepanshu Goyal, Yihan Zhang, Winnie Chow, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang. arXiv, 2023.
+- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492).
+  - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang. arXiv, 2023.
 - [RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/abs/2304.05302) 
   - Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang, Fei Huang. NeurIPS, 2023.
 - [Reward Model Ensembles Help Mitigate Overoptimization](https://arxiv.org/abs/2310.02743)
