@@ -161,6 +161,7 @@ Some notes:
   - OpenAI, 2023.
 
 ## Open Source Software/Implementations
-
+- [trl](https://github.com/huggingface/trl/tree/main)
+  - Train transformer language models with reinforcement learning.
 - [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF)
   - A Ray-based High-performance RLHF framework (for 34b+ models)
