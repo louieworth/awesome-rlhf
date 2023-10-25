@@ -39,6 +39,10 @@ Some notes:
   - Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David Lindner, Pedro Freire, Tony Wang, Samuel Marks, Charbel-Raphaël Segerie, Micah Carroll, Andi Peng, Phillip Christoffersen, Mehul Damani, Stewart Slocum, Usman Anwar, Anand Siththaranjan, Max Nadeau, Eric J. Michaud, Jacob Pfau, Dmitrii Krasheninnikov, Xin Chen, Lauro Langosco, Peter Hase, Erdem Bıyık, Anca Dragan, David Krueger, Dorsa Sadigh, and Dylan Hadfield-Menell. arXiv, 2023.
 
 ### RLHF for LLMs: Theory / Methods
+- [Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback](https://arxiv.org/abs/2310.13595)
+  - Nathan Lambert, Thomas Krendl Gilbert, Tom Zick. arXiv, 2023.
+- [Group Preference Optimization: Few-Shot Alignment of Large Language Models](https://arxiv.org/abs/2310.11523)
+  - Siyan Zhao, John Dang, Aditya Grover. arXiv, 2023.
 - [Safe RLHF: Safe Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2310.12773)
   - Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, Yaodong Yang. arXiv, 2023.
 - [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505).
