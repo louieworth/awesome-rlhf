@@ -140,6 +140,8 @@ Some notes:
 ## Blogs/Talks/Reports
 
 ### Blogs
+- [The N Implementation Details of RLHF with PPO](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)
+  - Tianlin Liu, Tianlin Liu, Leandro von Werra. Hugging Face blog, 2023.
 
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
   - Nathan Lambert, Hugging Face blog, 2022.
