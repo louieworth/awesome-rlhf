@@ -15,8 +15,8 @@ For any inquiries, don't hesitate to contact: li.jiang3@mail.mcgill.ca
 
 Some notes:
 
-- This resource is dedicated to the latest papers and does not include past academic works, even those published earlier in 2023. For a review of prominent historical papers, please refer to [hugging face blog](https://huggingface.co/blog/rlhf#further-reading) and [this link](https://github.com/opendilab/awesome-RLHF).
-<!-- - Most of the paper collections is credited to [RLHF papers](https://www.craft.me/s/NHvR6dsCVNNW8L). -->
+- This resource is dedicated to the latest papers and does not include past academic works, even those published earlier in 2023. For a review of prominent historical papers and other sources, please refer to [hugging face blog](https://huggingface.co/blog/rlhf#further-reading) and [this link](https://github.com/opendilab/awesome-RLHF) from OpendiLab.
+- Most of the paper collections is credited to [RLHF papers](https://www.craft.me/s/NHvR6dsCVNNW8L).
 
 ## Table of Contents
 - [Papers](https://github.com/louieworth/awesome-rlhf#papers)
