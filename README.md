@@ -47,6 +47,8 @@ Some notes:
   - Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, Yaodong Yang. arXiv, 2023.
 - [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505).
   - Ziniu Li, Tian Xu, Yushun Zhang, Yang Yu, Ruoyu Sun, Zhi-Quan Luo. arXiv, 2023.
+- [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://arxiv.org/abs/2309.10202)
+  - Baolin Peng, Linfeng Song, Ye Tian, Lifeng Jin, Haitao Mi, Dong Yu. arXiv, 2023.
 - [Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization for Language Models](https://arxiv.org/abs/2310.03708).
   - Zhanhui Zhou, Jie Liu, Chao Yang, Jing Shao, Yu Liu, Xiangyu Yue, Wanli Ouyang, Yu Qiao. arXiv, 2023.
 - [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036).
@@ -117,7 +119,10 @@ Some notes:
   - Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez. arXiv, 2023.
 
 ### RLHF for Other Domains
-
+- [Contrastive Preference Learning: Learning from Human Feedback without RL](https://arxiv.org/abs/2310.13639).
+  - Joey Hejna, Rafael Rafailov, Harshit Sikchi, Chelsea Finn, Scott Niekum, W. Bradley Knox, Dorsa Sadigh. arXiv, 2023.
+- [Beyond Reward: Offline Preference-guided Policy Optimization](http://arxiv.org/abs/2305.16217).
+  - Yachen Kang, Diyuan Shi, Jinxin Liu, Li He, Donglin Wang. arXiv, 2023.
 - [PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback](https://arxiv.org/abs/2307.14936)
   - Bo Shen, Jiaxin Zhang, Taihong Chen, Daoguang Zan, Bing Geng, An Fu, Muhan Zeng, Ailun Yu, Jichuan Ji, Jingyang Zhao, Yuenan Guo, Qianxiang Wang. arXiv, 2023.
 - [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583)
@@ -150,7 +155,6 @@ Some notes:
   - Chip Huyen, 2023.
 
 ### Talks
-
 - [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?v=2MBJOuVq380&t=2641s)
 - Nathan Lambert, Hugging Face, 2022.
 - [Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg&t=3206s)
