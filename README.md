@@ -40,6 +40,10 @@ Some notes:
   - Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David Lindner, Pedro Freire, Tony Wang, Samuel Marks, Charbel-Raphaël Segerie, Micah Carroll, Andi Peng, Phillip Christoffersen, Mehul Damani, Stewart Slocum, Usman Anwar, Anand Siththaranjan, Max Nadeau, Eric J. Michaud, Jacob Pfau, Dmitrii Krasheninnikov, Xin Chen, Lauro Langosco, Peter Hase, Erdem Bıyık, Anca Dragan, David Krueger, Dorsa Sadigh, and Dylan Hadfield-Menell. arXiv, 2023.
 
 ### RLHF for LLMs: Theory / Methods
+- [COPF: Continual Learning Human Preference through Optimal Policy Fitting](http://arxiv.org/abs/2310.15694)
+  - Han Zhang, Lin Gui, Yuanzhao Zhai, Hui Wang, Yu Lei, Ruifeng Xu. arXiv, 2023.
+- [SuperHF: Supervised Iterative Learning from Human Feedback](https://arxiv.org/abs/2310.16763).
+  - Gabriel Mukobi, Peter Chatain, Su Fong, Robert Windesheim, Gitta Kutyniok, Kush Bhatia, Silas Alberti. arXiv, 2023.
 - [Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis](https://export.arxiv.org/abs/2310.10477)
   - Kai Chen, Chunwei Wang, Kuo Yang, Jianhua Han, Lanqing Hong, Fei Mi, Hang Xu, Zhengying Liu, Wenyong Huang, Zhenguo Li, Dit-Yan Yeung, Lifeng Shang, Xin Jiang, Qun Liu. arXiv, 2023.
 - [Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback](https://arxiv.org/abs/2310.13595)
