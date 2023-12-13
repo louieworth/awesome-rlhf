@@ -52,7 +52,7 @@ Some notes:
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du. arXiv, 2023. 
 - [Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155)
   - Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang. arXiv, 2023.
-- Fake Alignment: Are LLMs Really Aligned Well?[https://arxiv.org/abs/2311.05915]
+- [Fake Alignment: Are LLMs Really Aligned Well?](https://arxiv.org/abs/2311.05915)
   - Yixu Wang, Yan Teng, Kexin Huang, Chengqi Lyu, Songyang Zhang, Wenwei Zhang, Xingjun Ma, Yu-Gang Jiang, Yu Qiao, Yingchun Wang. arXiv, 2023.
 - [Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment](https://arxiv.org/abs/2311.04072)
   - Geyang Guo, Ranchi Zhao, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen. arXiv, 2023.
