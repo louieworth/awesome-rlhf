@@ -42,6 +42,8 @@ Some notes:
   - Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David Lindner, Pedro Freire, Tony Wang, Samuel Marks, Charbel-Raphaël Segerie, Micah Carroll, Andi Peng, Phillip Christoffersen, Mehul Damani, Stewart Slocum, Usman Anwar, Anand Siththaranjan, Max Nadeau, Eric J. Michaud, Jacob Pfau, Dmitrii Krasheninnikov, Xin Chen, Lauro Langosco, Peter Hase, Erdem Bıyık, Anca Dragan, David Krueger, Dorsa Sadigh, and Dylan Hadfield-Menell. arXiv, 2023.
 
 ### RLHF for LLMs: Theory / Methods
+- [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585).
+  - Avi Singh, John D. Co-Reyes, Rishabh Agarwal, Ankesh Anand, Piyush Patil, Peter J. Liu, James Harrison, Jaehoon Lee, Kelvin Xu, Aaron Parisi, Abhishek Kumar, Alex Alemi, Alex Rizkowsky, Azade Nova, Ben Adlam, Bernd Bohnet, Hanie Sedghi, Igor Mordatch, Isabelle Simpson, Izzeddin Gur, Jasper Snoek, Jeffrey Pennington, Jiri Hron, Kathleen Kenealy, Kevin Swersky, Kshiteej Mahajan, Laura Culp, Lechao Xiao, Maxwell L. Bileschi, Noah Constant, Roman Novak, Rosanne Liu, Tris Warkentin, Yundi Qian, Ethan Dyer, Behnam Neyshabur, Jascha Sohl-Dickstein, Noah Fiedel. arXiv, 2023.
 - [Nash Learning from Human Feedback](https://arxiv.org/abs/2312.00886v2).
   - Rémi Munos, Michal Valko, Daniele Calandriello, Mohammad Gheshlaghi Azar, Mark Rowland, Zhaohan Daniel Guo, Yunhao Tang, Matthieu Geist, Thomas Mesnard, Andrea Michi, Marco Selvi, Sertan Girgin, Nikola Momchev, Olivier Bachem, Daniel J. Mankowitz, Doina Precup, Bilal Piot. arXiv, 2023.
 - [Interpreting Reward Models in RLHF-Tuned Language Models Using Sparse Autoencoders](https://arxiv.org/abs/2310.08164).
@@ -50,6 +52,8 @@ Some notes:
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du. arXiv, 2023. 
 - [Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155)
   - Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang. arXiv, 2023.
+- Fake Alignment: Are LLMs Really Aligned Well?[https://arxiv.org/abs/2311.05915]
+  - Yixu Wang, Yan Teng, Kexin Huang, Chengqi Lyu, Songyang Zhang, Wenwei Zhang, Xingjun Ma, Yu-Gang Jiang, Yu Qiao, Yingchun Wang. arXiv, 2023.
 - [Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment](https://arxiv.org/abs/2311.04072)
   - Geyang Guo, Ranchi Zhao, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen. arXiv, 2023.
 - [Loose lips sink ships: Mitigating Length Bias in Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2310.05199)
@@ -163,9 +167,10 @@ Some notes:
 
 ### Datasets
 
-[UltraFeedback: Boosting Language Models with High-quality Feedback](https://arxiv.org/abs/2310.01377)
-
-- Ganqu Cui, Lifan Yuan, Ning Ding, Guanming Yao, Wei Zhu, Yuan Ni, Guotong Xie, Zhiyuan Liu, Maosong Sun. arXiv, 2023.
+- [UltraFeedback: Boosting Language Models with High-quality Feedback](https://arxiv.org/abs/2310.01377)
+  - Ganqu Cui, Lifan Yuan, Ning Ding, Guanming Yao, Wei Zhu, Yuan Ni, Guotong Xie, Zhiyuan Liu, Maosong Sun. arXiv, 2023.
+- [OpenAssistant Conversations - Democratizing Large Language Model Alignment](https://openreview.net/forum?id=VSJotgbPHF).
+  - Andreas Köpf, Yannic Kilcher, Dimitri von Rütte, Sotiris Anagnostidis, Zhi Rui Tam, Keith Stevens, Abdullah Barhoum, Duc Minh Nguyen, Oliver Stanley, Richárd Nagyfi, Shahul ES, Sameer Suri, David Alexandrovich Glushkov, Arnav Varma Dantuluri, Andrew Maguire, Christoph Schuhmann, Huu Nguyen, Alexander Julian Mattick. NeurIPS 2023.
 
 ## Blogs/Talks/Reports
 
